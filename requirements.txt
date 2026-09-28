@@ -1,0 +1,9 @@
+streamlit==1.39.0
+tensorflow==2.21.0
+opencv-python
+numpy
+Pillow
+matplotlib
+scikit-learn
+seaborn
+protobuf==6.31.1
