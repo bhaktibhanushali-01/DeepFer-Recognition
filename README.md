@@ -195,7 +195,7 @@ These dependencies are specified in the project's requirements file. filecite
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/bhaktibhanushali-01/DeepFer-Recognition.git
 ```
 
 ### 2. Navigate to the Project
